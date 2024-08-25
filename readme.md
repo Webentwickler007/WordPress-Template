@@ -30,9 +30,17 @@ Entwickler haben verschiedene Ansätze, um eine neue berufliche Herausforderung 
 
 Hier sind einige der bekanntesten und am häufigsten genutzten Plattformen für die Jobsuche von Entwicklern:
 
-### Stack Overflow Jobs
+### [Stack Overflow Jobs](https://stackoverflow.com/jobs/companies)
 
 Stack Overflow ist nicht nur eine beliebte Plattform zum Austausch von Wissen, sondern bietet auch eine Jobbörse, die sich speziell an Entwickler richtet. Hier können Entwickler nach Positionen suchen, die genau ihren Fähigkeiten und Interessen entsprechen.
+
+### [Jobbörse der WordPress-Community](https://jobs.wordpress.net/)
+
+die offizielle Jobbörse der WordPress-Community und eine ausgezeichnete Anlaufstelle für Entwickler, Designer und andere Fachleute, die sich auf WordPress spezialisiert haben. Die Plattform bietet eine breite Palette an Jobangeboten, die von festangestellten Positionen bis hin zu freiberuflichen Projekten reichen.
+
+### [RapidJob - Entwickler Stellenangebote](https://www.rapidjob.de/jobs/entwickler-stellenangebote/)
+
+RapidJob ist eine spezialisierte Jobbörse, die sich auf die Vermittlung von Fachkräften in der IT-Branche konzentriert. Die Plattform bietet eine benutzerfreundliche Oberfläche und eine Vielzahl an Filtermöglichkeiten, die es Entwicklern erleichtern, gezielt nach passenden Stellenangeboten zu suchen.
 
 ### [GitHub Jobs](https://www.github.careers/careers-home)
 
@@ -42,11 +50,7 @@ GitHub Jobs war eine Plattform, die Entwicklern half, interessante Stellenangebo
 
 HackerRank ist bekannt für seine Coding-Challenges und Wettbewerbe. Die Plattform bietet auch eine Jobbörse, die es Unternehmen ermöglicht, direkt mit talentierten Entwicklern in Kontakt zu treten, die ihre Fähigkeiten durch erfolgreiche Teilnahme an Herausforderungen bewiesen haben.
 
-### [RapidJob - Webentwickler Stellenangebote](https://www.rapidjob.de/)
-
-RapidJob ist eine spezialisierte Jobbörse, die sich auf die Vermittlung von Fachkräften in der IT-Branche konzentriert. Die Plattform bietet eine benutzerfreundliche Oberfläche und eine Vielzahl an Filtermöglichkeiten, die es Entwicklern erleichtern, gezielt nach passenden Stellenangeboten zu suchen.
-
-### AngelList
+### [AngelList](https://www.angellist.com/careers)
 
 AngelList ist eine Plattform, die sich auf Startups konzentriert. Entwickler, die daran interessiert sind, in innovativen und schnell wachsenden Unternehmen zu arbeiten, können hier nach passenden Jobangeboten suchen und sich direkt bei Gründern bewerben.
 
